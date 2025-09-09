@@ -28,12 +28,12 @@ I'm a passionate Data Science and Computer Science undergrad at IIT Madras and S
 - Uses FastAPI, Gemini, and Playwright to handle JavaScript-heavy websites.
 - Auto-generates visual insights with pandas.
 
-### [Retrieval-Augmented Virtual TA]([link-to-repo](https://github.com/reshav09/TDS-Project-1-May-2025))
+### [Retrieval-Augmented Virtual TA](https://github.com/reshav09/TDS-Project-1-May-2025)
 - Flask-based virtual tutor using Retrieval-Augmented Generation with OpenAI API and FAISS.
 - Supports context-aware Q&A using course materials and forum data.
 - Deployed with Docker and supports real-time queries via REST API.
 
-### [Quiz Platform App]([link-to-repo](https://github.com/reshav09/Quiz-Platform-App-MAD_1))
+### [Quiz Platform App](https://github.com/reshav09/Quiz-Platform-App-MAD_1)
 - Interactive Python/Flask-based quiz platform with analytics and admin dashboard.
 - Enables subject-wise performance insights and user activity tracking.
 
